@@ -2,7 +2,7 @@
 Scrape hundreds of job listings for any position in seconds!
 
 # Required Libraries 
-To run the code, you will have to install several libraries in python. They can be installed using **pip**, which can be downloaded [here](https://pip.pypa.io/en/stable/installing/)
+This program requires two libraries to be installed in order to execute. They can be installed using **pip**, which can be downloaded [here](https://pip.pypa.io/en/stable/installing/)
 
 Once you have pip installed, you can run these commands in terminal (Mac) or the command prompt (Windows) to download the required libraries
 ```
