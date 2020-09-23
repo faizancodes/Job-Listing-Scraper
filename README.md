@@ -11,7 +11,7 @@ pip install bs4
 ```
 # How to Run 
 
-To run and edit the code, first download the zip file containing all the files and then unzip the folder. Then, move the folder to your desktop and rename it to **JobScraper**
+In order to run and edit the code, first download the zip file containing all the files and then unzip the folder. Then, move the folder to your desktop and rename it to **JobScraper**
 
 If you want to execute the python notebook file (.ipynb), you will have to download jupyter notebook by running `pip install notebook` in terminal or command prompt then opening up juypter notebook by running `jupyter notebook`. You can then upload the code from there
 
