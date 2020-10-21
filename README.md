@@ -1,7 +1,7 @@
 # Job-Listing-Scraper
 Speed up your job application process with python! Gain access to hundreds of job listings with direct URLs to apply for each position in seconds.
 
-Check out the step-by-step tutorial on YouTube [here](https://www.youtube.com/watch?v=zz3YTqDcDO0&t=36s)
+Check out the step-by-step tutorial on YouTube [here](https://www.youtube.com/watch?v=zz3YTqDcDO0)
 
 # Required Libraries 
 This program requires two libraries to be installed in order to execute. They can be installed using **pip**, which can be downloaded [here](https://pip.pypa.io/en/stable/installing/)
