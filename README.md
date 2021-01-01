@@ -3,24 +3,35 @@ Speed up your job application process with python! Gain access to hundreds of jo
 
 Check out the step-by-step tutorial on YouTube [here](https://www.youtube.com/watch?v=zz3YTqDcDO0)
 
-# Required Libraries 
-This program requires two libraries to be installed in order to execute. They can be installed using **pip**, which can be downloaded [here](https://pip.pypa.io/en/stable/installing/)
+# How to Run the Code
+  
+  - If you do not have **git** installed, download it [here](https://git-scm.com/downloads)
+  - If you do not have **pip** installed, download it [here](https://pip.pypa.io/en/stable/installing/)
+  
+  - Clone the repository `git clone https://github.com/SJUSATA/Job-Listing-Scraper.git`
+  
+  - Navigate to the downloaded folder `cd Job-Listing-Scraper`
+  
+  - Install the required libraries `pip install -r requirements.txt` 
+  
+    - If that gives you an error, try
+    
+      - `python -m pip install -r requirements.txt` or
+      
+      - `pip3 install -r requirements.txt` if you are on Mac
+      
+  - Run the code `python jobscraper.py`
+  
+# How to Run the Python Notebook file (.ipynb)
 
-Once you have pip installed, you can run these commands in terminal (Mac) or the command prompt (Windows) to download the required libraries
-```
-pip install requests 
-pip install bs4
-```
-# How to Run 
-
-In order to run and edit the code, first download the zip file containing all the files and then unzip the folder. Then, move the folder to your desktop and rename it to **JobScraper**
-
-If you want to execute the python notebook file (.ipynb), you will have to download jupyter notebook by running `pip install notebook` in terminal or command prompt then opening up juypter notebook by running `jupyter notebook`. You can then upload the code from there
-
-If you want to run the python file (.py), run `cd desktop` to navigate to your desktop directory. Then, run `cd JobScraper` to navigate to that folder and finally run `jobscraper.py` to execute the code. 
+  - Download Jupyter Notebook by running `pip install notebook` 
+  
+  - Run `jupyter notebook` to activate jupyter notebook
+  
+  - You can now upload the ipynb file 
 
 # Troubleshooting
 
-If you are having any issues running the code, please refer to these links or contact me. 
+If you are having any issues running the code, please refer to these links or contact faizan.ahmed18@stjohns.edu. 
   - https://www.geeksforgeeks.org/how-to-run-a-python-script/
   - https://pythonbasics.org/execute-python-scripts/
